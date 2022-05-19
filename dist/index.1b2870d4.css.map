@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;;AAMA","sources":["public/styles/styles.scss"],"sourcesContent":["body {\r\n    background: blue;\r\n    color: yellow;\r\n    font-family: 'Comic Sans MS', sans-serif;\r\n}\r\n\r\nh1 {\r\n    color: white;\r\n}"],"names":[],"version":3,"file":"index.1b2870d4.css.map","sourceRoot":"/__parcel_source_root/"}
